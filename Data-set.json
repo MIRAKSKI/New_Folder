@@ -1,0 +1,11 @@
+{"f0":{"comp":{"CF":1.63,"CT":0.41,"D":1.47,"FF":0.63,"RT":0.26,"VS":1891.48,"Y":100},"formula":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":0},{"temchimt":100}]}
+,"f1":{"comp":{"Y":100,"CF":1.1,"FF":0.3,"CT":0.41,"RT":0.26,"VS":2032.5,"D":1.27},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":1},{"temchimt":99}]}
+,"f2":{"comp":{"Y":100,"CF":1.9,"FF":0.52,"CT":0.41,"RT":0.26,"VS":1995,"D":1.25},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":2},{"temchimt":98}]}
+,"f3":{"comp":{"Y":100,"CF":2.7,"FF":1.02,"CT":0.41,"RT":0.26,"VS":1957.5,"D":1.23},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":3},{"temchimt":97}]}
+,"f4":{"comp":{"Y":100,"CF":3.4,"FF":2.09,"CT":0.41,"RT":0.26,"VS":1920,"D":1.21},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":4},{"temchimt":96}]}
+,"f5":{"comp":{"Y":100,"CF":2.1,"FF":0.9,"CT":0.41,"RT":0.27,"VS":1882.5,"D":1.15},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":0},{"electronic_waste":5},{"temchimt":95}]}
+,"f6":{"comp":{"Y":100,"CF":1.66,"FF":0.21,"CT":0.41,"RT":0.26,"VS":1848.11,"D":1.54},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":1},{"electronic_waste":0},{"temchimt":99}]}
+,"f7":{"comp":{"Y":100,"CF":1.38,"FF":0.26,"CT":0.42,"RT":0.26,"VS":1940.3,"D":1.4100000000000001},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":1},{"electronic_waste":1},{"temchimt":98}]}
+,"f8":{"comp":{"Y":100,"CF":1.82,"FF":0.42,"CT":0.42000000000000004,"RT":0.26,"VS":1946.04,"D":1.35},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":1},{"electronic_waste":2},{"temchimt":97}]}
+,"f9":{"comp":{"Y":100,"CF":2.4499999999999997,"FF":0.8200000000000001,"CT":0.41000000000000003,"RT":0.26,"VS":1930.16,"D":1.31},"furmola":[{"glass_powder":0},{"clay":0},{"cement":0},{"lime":0},{"gravel":0},{"natural_fiber":1},{"electronic_waste":3},{"temchimt":96}]}
+}
